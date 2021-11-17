@@ -1,0 +1,38 @@
+*{margin: 0px; padding: 0px;}
+.errorHint{position: absolute; left: 130px; top:-282px;}
+.showError{border:1px solid red;}
+table{ border: 1px solid white; width: 550px; padding: 10px; margin: 150px auto; background:#ffefd5 left center no-repeat; }
+table td{
+    text-align: center;
+    width: 100px;
+    height: 40px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+}
+table th{
+    font-size: 18px;
+    font-family:'楷体';
+    color: 	#8B0000;
+}
+table td button{
+    width: 98%;
+    height: 98%;
+    font-size: 16px;
+    font-family: 'Microsoft yahei';
+    background: gray;
+    color: 	white;
+    outline:none;
+    border:1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+table td input{
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+    border:1px solid #996c33;
+    box-sizing: border-box;
+    text-align: right;
+    font-size: 16px;
+    font-family: 'Microsoft yahei';
+}

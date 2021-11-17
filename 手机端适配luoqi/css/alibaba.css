@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+.top{
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.top h3{
+    display: inline-block;
+    margin-left: 8px;
+}
+.top form {
+    display: inline;
+    margin-left: 73px;
+}
+.commodity{
+    width: 350px;
+    text-align: center;
+    border: 1px solid #eee;
+
+    margin: 10px auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 8px 0px #eeeeee;
+
+}
+.commodity div img{
+    border-radius: 15px;
+    margin-left: 21px;
+    width: 140px;
+    height: 132px;
+    margin-top: 14px;
+}
+.pic_info{
+    align-items: center;
+}
+
+
+.commodity div ul{
+    display: inline-block;
+    position: absolute;
+    margin-top: 37px;
+    margin-left: 24px;
+    font-family: MyFont;
+}
+
+
+.commodity div ul li{
+    padding-left: 20px;
+    line-height: 20px;
+    font-size: 18px;
+    font-family: 'MyFont';
+    padding: 5px 0;
+}
+.commodity div ul li:nth-child(2n-1){
+    opacity: 0.6;
+    color: red;
+}
+h3{
+    font-size: 22px;
+}
+input{
+    width: 160px;
+}
+.pic_info{
+    position: relative;
+}
+
+.goup{
+    margin-top: -20px;
+}
+@font-face {
+    font-family: MyFont;
+    src: url(./font/1.TTF);
+}
+.pic_box{
+    width: 161px;
+    height: 161px;
+}

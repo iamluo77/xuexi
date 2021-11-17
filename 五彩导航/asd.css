@@ -1,0 +1,40 @@
+.nav a{
+    display: inline-block;
+    width: 120px;
+    height: 58px;
+    background-color: pink;
+    text-align: center;
+    line-height: 48px;
+    color: #fff;
+    text-decoration: none;
+}
+.nav .bg1 {
+    background: url("../五彩导航/jpg/bg1的副本.png");
+}
+.nav .bg1:hover{
+    background: url("../五彩导航/jpg/bg22的副本.png");
+}
+.nav .bg2{
+    background: url("../五彩导航/jpg/bg2的副本.png");
+}
+.nav .bg3{
+    background: url("../五彩导航/jpg/bg3的副本.png");
+}
+.nav .bg4{
+    background: url("../五彩导航/jpg/bg4的副本.png");
+}
+.nav .bg5{
+    background: url("../五彩导航/jpg/bg5的副本.png");
+}
+.nav .bg3:hover{
+    background: url("../五彩导航/jpg/bg11的副本.png");
+}
+.nav .bg4:hover{
+     background: url("../五彩导航/jpg/bg22的副本.png");
+ }
+.nav .bg5:hover {
+       background: url("../五彩导航/jpg/bg11的副本.png");
+   }
+.nav .bg2:hover{
+    background: url("../五彩导航/jpg/bg1的副本.png");
+}
