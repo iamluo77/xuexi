@@ -1,0 +1,25 @@
+footer{
+    margin-top: 11px;
+    border: 2px solid #dfc9b2;
+
+}
+.table_head{
+    width: 100%;
+    margin-top: 14px;
+    line-height: 26px;
+    background: #faf8f2;
+    border:2px solid #eadbc9;
+    color: #8a7152;
+
+
+}
+header{
+    height: 112px;
+    border: 2px solid #dfc9b2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+body{
+    background-color: #faf8f2;
+}

@@ -1,0 +1,62 @@
+.pay_order{
+    height: 200px;
+    margin: 10px ;
+
+}
+.pay_type{
+    float: left;
+    width: 430px;
+    height: 200px;
+    margin: 10px;
+}
+.pay_info{
+    float: left;
+    width: 430px;
+    height: 200px;
+    margin: 10px;
+
+}
+.clear{
+    clear: both;
+}
+
+header{
+    height: 112px;
+    border: 2px solid #dfc9b2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+section{
+    margin: 10px auto;
+    padding: 10px;
+    border: 2px solid #dfc9b2;
+}
+article table {
+    width: 925px;
+    margin: 10px auto;
+    border: 2px solid #dfc9b2;
+}
+
+.table_head{
+    height: 26px;
+    line-height: 26px;
+    padding: 2px 0 0 0 ;
+    background: #faf8f2;
+    border-bottom: 1px solid #eadbc9;
+    border-top: 1px solid #eadbc9;
+    color: #8a7152;
+
+
+}
+.total{
+    text-align: right;
+    margin: auto;
+    background: #f1f5f8;
+}
+footer{
+    margin-top: 260px;
+    border: 2px solid #dfc9b2;
+
+}

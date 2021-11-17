@@ -1,0 +1,28 @@
+table{
+    text-align: center;
+    background: #faf8f2;
+    width: 100%;
+    border:2px solid #eadbc9;
+    margin-top: 10px;
+}
+header{
+    height: 112px;
+    border: 2px solid #dfc9b2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+footer{
+    border:2px solid #eadbc9;
+    margin-top: 10px;
+
+}
+header{
+    border:2px solid #eadbc9;
+}
+body{
+    background: #faf8f2;
+}
+tr{
+    margin-left: 400px;
+}
