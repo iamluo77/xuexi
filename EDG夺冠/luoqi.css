@@ -1,0 +1,40 @@
+.list1 li{
+    list-style-type: none;
+    border: 2px solid;
+
+}
+.list1 li:nth-child(1){
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-shadow: 0 1px 1px #ccc;
+}
+.list1 li:last-child{
+    border: solid #ccc 1px;
+    border-radius: 6px;
+    box-shadow: 0 1px 1px #ccc;
+}
+@font-face {
+    font-family: YourWebFontName;
+    src: url('./font/1.TTF');
+}
+.list1 li{
+    font-family: 'YourwebFontName';
+}
+.list1 li{
+    background: hsla(0, 100%, 60%, 0.5);
+}
+.nav_left{
+    width: 30%;
+}
+.list1{
+    width: 90%;
+    text-align: left;
+    float: right;
+}
+.nav .nav_left .list{
+    float: left;
+}
+h1{
+    text-align: center;
+    font-size: 5em;
+}
